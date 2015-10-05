@@ -1,0 +1,322 @@
+ [
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Data Management",
+      "Jobs" : 21,
+      "Country_Percentage" : 4.99,
+      "Skills_Percentage" : 80.77
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Data Quality Management",
+      "Jobs" : 1,
+      "Country_Percentage" : 0.24,
+      "Skills_Percentage" : 100
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Data Governance",
+      "Jobs" : 27,
+      "Country_Percentage" : 6.41,
+      "Skills_Percentage" : 90
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Data Analysis",
+      "Jobs" : 14,
+      "Country_Percentage" : 3.33,
+      "Skills_Percentage" : 93.33
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Data Engineering",
+      "Jobs" : 126,
+      "Country_Percentage" : 29.93,
+      "Skills_Percentage" : 81.82
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Data Visualization",
+      "Jobs" : 3,
+      "Country_Percentage" : 0.71,
+      "Skills_Percentage" : 42.86
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Artificial Intelligence",
+      "Jobs" : 30,
+      "Country_Percentage" : 7.13,
+      "Skills_Percentage" : 61.22
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Cloud Computing",
+      "Jobs" : 89,
+      "Country_Percentage" : 21.14,
+      "Skills_Percentage" : 60.14
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Mathematics",
+      "Jobs" : 14,
+      "Country_Percentage" : 3.33,
+      "Skills_Percentage" : 53.85
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Statistics",
+      "Jobs" : 1,
+      "Country_Percentage" : 0.24,
+      "Skills_Percentage" : 50
+    },
+    {
+      "id" : 234,
+      "Country" : "UK",
+      "Skill" : "Business Intelligence",
+      "Jobs" : 95,
+      "Country_Percentage" : 22.57,
+      "Skills_Percentage" : 66.43
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Data Management",
+      "Jobs" : 3,
+      "Country_Percentage" : 4.17,
+      "Skills_Percentage" : 11.54
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Data Governance",
+      "Jobs" : 2,
+      "Country_Percentage" : 2.78,
+      "Skills_Percentage" : 6.67
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Data Engineering",
+      "Jobs" : 11,
+      "Country_Percentage" : 15.28,
+      "Skills_Percentage" : 7.14
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Artificial Intelligence",
+      "Jobs" : 3,
+      "Country_Percentage" : 4.17,
+      "Skills_Percentage" : 6.12
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Cloud Computing",
+      "Jobs" : 25,
+      "Country_Percentage" : 34.72,
+      "Skills_Percentage" : 16.89
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Mathematics",
+      "Jobs" : 11,
+      "Country_Percentage" : 15.28,
+      "Skills_Percentage" : 42.31
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Statistics",
+      "Jobs" : 1,
+      "Country_Percentage" : 1.39,
+      "Skills_Percentage" : 50
+    },
+    {
+      "id" : 231,
+      "Country" : "Germany",
+      "Skill" : "Business Intelligence",
+      "Jobs" : 16,
+      "Country_Percentage" : 22.22,
+      "Skills_Percentage" : 11.19
+    },
+    {
+      "id" : 233,
+      "Country" : "France",
+      "Skill" : "Data Management",
+      "Jobs" : 1,
+      "Country_Percentage" : 2.27,
+      "Skills_Percentage" : 3.85
+    },
+    {
+      "id" : 233,
+      "Country" : "France",
+      "Skill" : "Data Engineering",
+      "Jobs" : 1,
+      "Country_Percentage" : 2.27,
+      "Skills_Percentage" : 0.65
+    },
+    {
+      "id" : 233,
+      "Country" : "France",
+      "Skill" : "Data Visualization",
+      "Jobs" : 2,
+      "Country_Percentage" : 4.55,
+      "Skills_Percentage" : 28.57
+    },
+    {
+      "id" : 233,
+      "Country" : "France",
+      "Skill" : "Artificial Intelligence",
+      "Jobs" : 5,
+      "Country_Percentage" : 11.36,
+      "Skills_Percentage" : 10.2
+    },
+    {
+      "id" : 233,
+      "Country" : "France",
+      "Skill" : "Cloud Computing",
+      "Jobs" : 17,
+      "Country_Percentage" : 38.64,
+      "Skills_Percentage" : 11.49
+    },
+    {
+      "id" : 233,
+      "Country" : "France",
+      "Skill" : "Mathematics",
+      "Jobs" : 1,
+      "Country_Percentage" : 2.27,
+      "Skills_Percentage" : 3.85
+    },
+    {
+      "id" : 233,
+      "Country" : "France",
+      "Skill" : "Business Intelligence",
+      "Jobs" : 17,
+      "Country_Percentage" : 38.64,
+      "Skills_Percentage" : 11.89
+    },
+    {
+      "id" : 221,
+      "Country" : "Spain",
+      "Skill" : "Data Analysis",
+      "Jobs" : 1,
+      "Country_Percentage" : 5,
+      "Skills_Percentage" : 6.67
+    },
+    {
+      "id" : 221,
+      "Country" : "Spain",
+      "Skill" : "Data Engineering",
+      "Jobs" : 4,
+      "Country_Percentage" : 20,
+      "Skills_Percentage" : 2.6
+    },
+    {
+      "id" : 221,
+      "Country" : "Spain",
+      "Skill" : "Data Visualization",
+      "Jobs" : 2,
+      "Country_Percentage" : 10,
+      "Skills_Percentage" : 28.57
+    },
+    {
+      "id" : 221,
+      "Country" : "Spain",
+      "Skill" : "Cloud Computing",
+      "Jobs" : 9,
+      "Country_Percentage" : 45,
+      "Skills_Percentage" : 6.08
+    },
+    {
+      "id" : 221,
+      "Country" : "Spain",
+      "Skill" : "Business Intelligence",
+      "Jobs" : 4,
+      "Country_Percentage" : 20,
+      "Skills_Percentage" : 2.8
+    },
+    {
+      "id" : 220,
+      "Country" : "Italy",
+      "Skill" : "Data Governance",
+      "Jobs" : 1,
+      "Country_Percentage" : 7.14,
+      "Skills_Percentage" : 3.33
+    },
+    {
+      "id" : 220,
+      "Country" : "Italy",
+      "Skill" : "Data Engineering",
+      "Jobs" : 4,
+      "Country_Percentage" : 28.57,
+      "Skills_Percentage" : 2.6
+    },
+    {
+      "id" : 220,
+      "Country" : "Italy",
+      "Skill" : "Cloud Computing",
+      "Jobs" : 4,
+      "Country_Percentage" : 28.57,
+      "Skills_Percentage" : 2.7
+    },
+    {
+      "id" : 220,
+      "Country" : "Italy",
+      "Skill" : "Business Intelligence",
+      "Jobs" : 5,
+      "Country_Percentage" : 35.71,
+      "Skills_Percentage" : 3.5
+    },
+    {
+      "id" : 228,
+      "Country" : "Poland",
+      "Skill" : "Data Management",
+      "Jobs" : 1,
+      "Country_Percentage" : 3.33,
+      "Skills_Percentage" : 3.85
+    },
+    {
+      "id" : 228,
+      "Country" : "Poland",
+      "Skill" : "Data Engineering",
+      "Jobs" : 8,
+      "Country_Percentage" : 26.67,
+      "Skills_Percentage" : 5.19
+    },
+    {
+      "id" : 228,
+      "Country" : "Poland",
+      "Skill" : "Artificial Intelligence",
+      "Jobs" : 11,
+      "Country_Percentage" : 36.67,
+      "Skills_Percentage" : 22.45
+    },
+    {
+      "id" : 228,
+      "Country" : "Poland",
+      "Skill" : "Cloud Computing",
+      "Jobs" : 4,
+      "Country_Percentage" : 13.33,
+      "Skills_Percentage" : 2.7
+    },
+    {
+      "id" : 228,
+      "Country" : "Poland",
+      "Skill" : "Business Intelligence",
+      "Jobs" : 6,
+      "Country_Percentage" : 20,
+      "Skills_Percentage" : 4.2
+    }
+  ]
