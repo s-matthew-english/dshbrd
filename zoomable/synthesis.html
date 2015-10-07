@@ -25,6 +25,9 @@
     .background {
       fill: none;
       pointer-events: all;
+
+      display: block;
+      margin: auto;
     }
 
     .feature {
@@ -72,7 +75,7 @@
                         
                     <!-- This is the frame that contains the Map-->
                         <div class='row-fluid'>
-                            <div id="us-chart">
+                            <div id="us-chart" align="center">
                             <!--<div class='bubble-graph span12' id='dc-bubble-graph'> -->
                                 <h4>Distribution of Jobs by Country</h4>
                                 <a class="reset" href="javascript:usChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
@@ -165,6 +168,7 @@ var width = 590,
     active = d3.select(null);
 var projection = d3.geo.mercator()
     //.center([3.9, 43.0])
+    .precision(.1)
     .scale((1200 + 1) / 2 )
     .translate([660 / 4, 3360 / 4]);
 var zoom = d3.behavior.zoom()
@@ -190,6 +194,7 @@ svg
 
 
 
+
 d3.json("eu.json", function(error, data) {
   if (error) throw error;
   g.selectAll("path")
@@ -203,6 +208,9 @@ d3.json("eu.json", function(error, data) {
       .attr("class", "mesh")
       .attr("d", path);
 });
+
+
+
 
 
 
@@ -243,6 +251,11 @@ function zoomed() {
 function stopped() {
   if (d3.event.defaultPrevented) d3.event.stopPropagation();
 }
+
+
+
+
+
 
 </script>
 
